@@ -2,18 +2,22 @@
 
 ## General
 
-VS Code
-1Password
+- VS Code
+- 1Password
 
 ## Learning
 
-Markdown notes ("zen mode" via nvim)
-Anki
+- Markdown notes ("zen mode" via nvim)
+- Anki
 
 ## Python development
 
-Ruff for formatting/linting
+- Ruff for formatting/linting
 
 ## Rust development
 
-Rustup
+- Rustup
+
+## Machine info
+
+- btop
