@@ -6,8 +6,7 @@ Earth scientist with interests in inverse problems and statistical geophysics. I
 
 - Bayesian inverse problems and uncertainty quantification  
 - Dynamical systems and equation discovery  
-- Sea level fingerprinting and ice sheet signals  
-- Geophysical inverse problems  
+- (Geophysical) inverse problems  
 
 ## Selected Projects
 
