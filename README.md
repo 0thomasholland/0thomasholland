@@ -29,7 +29,12 @@ The methods developed here offer technical advances over other existing approach
 
 Analysis of a two-state-variable quasi-static spring-slider exhibiting chaotic stick-slip dynamics. Covers Lyapunov spectrum computation (QR method), Grassberger-Procaccia correlation dimension, bifurcation diagrams over the dimensionless stiffness ratio, SDE ensemble analysis, and grid-based exact Bayesian data assimilation with reanalysis and EnKF comparison. Implemented in Julia.
 
-<!--[View project](https://github.com/0thomasholland/nldc-coursework)-->
+[View project](https://github.com/0thomasholland/nldc-coursework)
+
+<p align="center">
+  <img src="https://github.com/0thomasholland/nldc-coursework/blob/main/.figures/code_example.png?raw=true" width="49%">
+  <img src="https://github.com/0thomasholland/nldc-coursework/blob/main/figures/fig5_bayes_sde_assimilation_x123.png?raw=true" width="49%">
+</p>
 
 ### Seismic Wave Forward Modeller (Rust)
 
