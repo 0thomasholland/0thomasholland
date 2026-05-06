@@ -42,6 +42,10 @@ Analysis of a two-state-variable quasi-static spring-slider exhibiting chaotic s
 
 [View project](https://github.com/0thomasholland/computational-science-fun/tree/main/seismic-wave-modeller)
 
+<p align="center">
+  <img src="https://github.com/0thomasholland/computational-science-fun/raw/main/seismic-wave-modeller/output/1.gif" width="80%">
+</p>
+
 ### Critical Cellular Automaton (Fortran + Python)
 
 A 3D self-organised criticality model written in Fortran: grains are added to a grid and redistribute when a threshold is exceeded, producing avalanche dynamics. Accompanied by a Python visualiser that renders rotating 3D animations of the evolving grid.
