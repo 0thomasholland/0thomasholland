@@ -46,6 +46,17 @@ Analysis of a two-state-variable quasi-static spring-slider exhibiting chaotic s
   <img src="https://github.com/0thomasholland/computational-science-fun/raw/main/seismic-wave-modeller/output/1.gif" width="80%">
 </p>
 
+### Camdram Connected
+
+Web app for finding shortest collaboration paths between any two people in Cambridge theatre using public Camdram data. Built as static HTML, CSS, and JavaScript on Cloudflare Pages, with a Pages Function proxy to handle Camdram API CORS restrictions.
+
+- Solves manual digging through theatre credits by showing how any two people in Cambridge theatre are connected, using Camdram role data to recover shortest collaboration paths.
+- Built as static HTML, CSS, and JavaScript on Cloudflare Pages, with a Pages Function proxy to handle Camdram API CORS restrictions without adding a build step.
+- Uses a rate-limited, cache-backed breadth-first search that lazily expands person and show roles to keep external API usage under control.
+- Adds debounced autocomplete, role-type filters, shareable URL state, PNG export, and a vis.js graph plus step-by-step details panel for each discovered path.
+
+[View project](https://github.com/0thomasholland/camdram-connected)
+
 ### Critical Cellular Automaton (Fortran + Python)
 
 A 3D self-organised criticality model written in Fortran: grains are added to a grid and redistribute when a threshold is exceeded, producing avalanche dynamics. Accompanied by a Python visualiser that renders rotating 3D animations of the evolving grid.
